@@ -28,7 +28,7 @@
 					v_li.title = datainfo[i];
 					v_li.id = "j" + i;
 					v_li.innerHTML = datainfo[i];
-					//为li标签设置点击事件sadasdsadsa
+					//为li标签设置点击事件
 					v_li.onclick = function(){
 						if(absn!=null){
 							g_topPlayer.mystop()
