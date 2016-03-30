@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="js/jquery-1.11.3.min.js" ></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+		<title></title>
+		<script>
+			function aa (){
+				$.ajax({
+					type:"get",
+					url:"file.php",
+					data:{index:2},
+					success:function(data){
+						console.log(data);
+					}
+				});
+			}
+		</script>
+	</head>
+	<body>
+		<input type="button" value="dinaji" onclick="aa();">
+	</body>
+</html>
