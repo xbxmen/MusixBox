@@ -1,4 +1,10 @@
 zhaoshuai secoond
+<<<<<<< HEAD
 master 3  an  ok
 zhaoshuai second
 zhaoshuai test an 3
+=======
+master 3  and ok
+zhaoshuai 4 ?
+
+>>>>>>> zhaoshuai
