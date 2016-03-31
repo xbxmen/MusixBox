@@ -1,3 +1,3 @@
 zhaoshuai init
-zhaoshuai second
-master 3
+zhaoshuai secoond
+master 3  and ok
